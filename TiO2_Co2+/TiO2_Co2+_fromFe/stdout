@@ -1,0 +1,20 @@
+---------------------------------------
+Begin PBS Prologue Sun Feb  4 22:23:47 EST 2018
+Job ID:     19463230.shared-sched.pace.gatech.edu
+User ID:    mlenk3
+Job name:   TiO2_Co2+
+Queue:      joe
+End PBS Prologue Sun Feb  4 22:23:47 EST 2018
+---------------------------------------
+---------------------------------------
+Begin PBS Epilogue Mon Feb  5 08:29:28 EST 2018
+Job ID:     19463230.shared-sched.pace.gatech.edu
+User ID:    mlenk3
+Job name:   TiO2_Co2+
+Resources:  neednodes=1:ppn=14,nodes=1:ppn=14,walltime=48:00:00
+Rsrc Used:  cput=54:48:16,energy_used=0,mem=4226092kb,vmem=9711260kb,walltime=10:05:41
+Queue:      joe
+Nodes:     
+rich133-k35-19-l.pace.gatech.edu
+End PBS Epilogue Mon Feb  5 08:29:28 EST 2018
+---------------------------------------
